@@ -19,7 +19,7 @@ $background-color: #fdfdfd;
 $brand-color:      #48d1cc;
 
 $grey-color:       #008080;
-$grey-color-light: lighten(#grey-color, 40%);
+$grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -61,7 +61,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
-    color: #20b2aa ;
+    
 }
 
 
