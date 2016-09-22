@@ -1,7 +1,7 @@
-----------
-First Blog Post
-September 21, 2016
----------
+---
+layout: post
+title:  On the Web
+---
 
 Well, the day has come.  It's time to publish my blog post on the world wide web.  
 The problem is I'm not entirely sure **where** this post is going to show up on
