@@ -7,7 +7,7 @@ Well, the day has come.  It's time to publish my blog post on the world wide web
 The problem is I'm not entirely sure **where** this post is going to show up on
 my website.  However, I feel certain that will be addressed very soon. =)
 
-This class has proven to be quite a challenge for me.  There is very little
+This class has proven to be quite a ```challenge for me```.  There is very little
 we have covered in the past few weeks that I would have considered "prior knowledge".
 And yet, when I understand what we are doing in class I genuinely have 
 fun.  The time in this class passes more quickly than in any other class I am
@@ -15,7 +15,7 @@ taking this semester, which says quite a bit especially because it is in the
 late afternoon!
 
 I hope to be much quicker and to understand the fundamentals of this class more
-thoroughly by the end of this semester.  Here's to making my first web page!
+thoroughly by the end of this semester.  _Here's_ to making my first web page!
 
 Let's talk about `jekyll`.
 
