@@ -30,3 +30,6 @@ jekyll serve
 <h1> Wow! </h1>
 
 {%endhighlight%}
+Change 1
+change 2
+
