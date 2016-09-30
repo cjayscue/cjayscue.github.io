@@ -3,6 +3,9 @@ layout: post
 title:  On the Web
 ---
 
+<center><img src="/css/13988130_1392580994092127_2821129243963142724_o.jpg"  alt="Wedding Dance"></center>
+
+
 Well, the day has come.  It's time to publish my blog post on the world wide web.  
 The problem is I'm not entirely sure **where** this post is going to show up on
 my website.  However, I feel certain that will be addressed very soon. =)
@@ -17,23 +20,8 @@ late afternoon!
 I hope to be much quicker and to understand the fundamentals of this class more
 thoroughly by the end of this semester.  _Here's_ to making my first web page!
 
-<img src="/css/384-emoji_android_panda_face.png" alt="Panda Face" style="width:100;height:100px;">
+<center><img src="/css/384-emoji_android_panda_face.png" alt="Panda Face" height="75" width="75"></center>
+<br>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/187063856%3Fsecret_token%3Ds-CshEh&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-
-Let's talk about `jekyll`.
-
-Here are some commands.
-
-```
-jekyll serve
-```
-
-{%highlight html%}
-
-<h1> Wow! </h1>
-
-{%endhighlight%}
-Change 1
-change 2
-
+<br>
+P.S.  The backup vocals and guitar on the song "Always,Always" are done by my younger brother Jonathan.
