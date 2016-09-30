@@ -17,6 +17,9 @@ late afternoon!
 I hope to be much quicker and to understand the fundamentals of this class more
 thoroughly by the end of this semester.  _Here's_ to making my first web page!
 
+<img src="384-emoji_android_panda_face.png" alt="Panda Face" style="width:100;height:100px;">
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/187063856%3Fsecret_token%3Ds-CshEh&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 
 Let's talk about `jekyll`.
 
