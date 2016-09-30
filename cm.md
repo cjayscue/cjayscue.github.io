@@ -28,7 +28,8 @@ projects as a student assistant in SILS. </p>
 <p> The tips I found most helpful came at the conclusion of the session. <br>
 The instructor shared several sites with us that contain images we can <br>
 include in our work on Adobe or in other projects, my favorite of which <br>
-was <a hreff = "https://thenounproject.com">The Noun Project</a>. Because I
-am currently developing a web page for this class it was
-helpful to discover where I could find some really unique and fun 
-graphics that I could incorporate into my own assignments. </p>
+was <a href= "https://thenounproject.com">The Noun Project</a>. Because I 
+am currently developing a web page <br>
+for this class it was helpful to discover where I could find some <br>
+really unique and fun graphics that I could incorporate into my own <br>
+assignments. </p>
