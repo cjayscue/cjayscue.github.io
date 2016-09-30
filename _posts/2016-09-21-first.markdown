@@ -24,4 +24,4 @@ thoroughly by the end of this semester.  _Here's_ to making my first web page!
 <br>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/187063856%3Fsecret_token%3Ds-CshEh&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <br>
-P.S.  The backup vocals and guitar on the song "Always,Always" are done by my younger brother Jonathan.
+P.S.  The backup vocals and guitar on the song "Always,Always" are performed by my younger brother Jonathan.
