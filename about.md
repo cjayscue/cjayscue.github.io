@@ -7,7 +7,8 @@ permalink: /about/
 <h2>My name is Christiana Ayscue</h2>
 <p>I'm twenty-eight years old<br>and a recently married transfer student to UNC.</p>
 <br>
-<center><p ><strong><span class="manual">Here is just a little bit more about</span>my life</strong></p></center>
+<center><p ><strong><span class="manual">Here is just a little bit more about <br>
+</span>my life</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
