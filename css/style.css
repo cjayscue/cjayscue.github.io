@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #20b2aa;
-  background-color: mintcream;
+  background-color: yellow;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,8 +66,8 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: purple !important;
-  text-decoration: none; }
+  color: #FF1493 !important;
+  text-decoration: overline; }
   a:visited {
     color: white; }
   a:hover {
@@ -160,7 +160,7 @@ pre {
     fill: black; }
 
 .post {
-  font-family: "Source Sans Pro";
+  font-family: "Times New Romans";
   font-size: 18px;
   font-weight: 300;
   padding-top: 0; }
@@ -427,7 +427,7 @@ pre {
 .post-title {
   font-size: 62px;
   text-align: center;
-  font-family: "PT Sans";
+  font-family:"Comic Sans MS";
   font-weight: 900; }
   @media screen and (max-width: 800px) {
     .post-title {

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  <body>
+      <h1>Sparkle, damnit!</h1>
+      <h2>Sparkle, damnit!</h2>
+      <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+<script type="text/javascript" src="//simeydotme.github.io/jQuery-canvas-sparkles/dist/jquery-canvas-sparkles.js"></script>
+    <script>
+
+        $(document).ready(function() {
+
+            $("h1").sparkle({ 
+
+                "color": ["#ff0080","#ff0080","#FFF"] , 
+                count: 70 ,
+                speed: 0
+
+            });
+
+            $("img").sparkle({
+
+                color: ["#2eafea","#e56604"],
+                speed: 0.4
+
+            });
+
+            $("button").last().sparkle({ 
+                "color": "rainbow" , 
+                "minSize": 2 , 
+                "maxSize": 5 ,
+                "overlap": 20 ,
+                "direction": "down" ,
+                "speed": 1,
+                "fadeSpeed":3000
+            });
+
+            $("button").first().sparkle({ 
+                "minSize": 2 , 
+                "maxSize": 10 ,
+                "overlap": 20 ,
+                "direction": "up" ,
+                "speed": 0.4
+            });
+
+        });
+
+    </script>
+
+  </body>
+
+</html>

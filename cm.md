@@ -7,6 +7,8 @@ category: "c.m."
 ---
 <br>
 
+
+
 <h2>Skillful Tech Workshop</h2>
 <p>Tonight I attended the “Design a Flyer in Photoshop” workshop in the <br>
 Undergraduate Library. (I was surprised to walk into the lab and discover <br>
@@ -33,3 +35,4 @@ am currently developing a web page <br>
 for this class it was helpful to discover where I could find some <br>
 really unique and fun graphics that I could incorporate into my own <br>
 assignments. </p>
+
