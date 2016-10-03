@@ -7,6 +7,15 @@ category: "c.m."
 ---
 <br>
 
+<script src="http://code.jquery.com/jquery-3.1.1.js"></script>
+
+
+<script>
+  $(document).ready(function() {
+    $("h2").sparkle();
+  });
+</script>
+
 <h2>Skillful Tech Workshop</h2>
 <p>Tonight I attended the “Design a Flyer in Photoshop” workshop in the <br>
 Undergraduate Library. (I was surprised to walk into the lab and discover <br>
