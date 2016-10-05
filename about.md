@@ -26,3 +26,5 @@ permalink: /about/
       <h2>Photos of my husband Brian and I on Franklin Street</h2>
       (I'm lucky to have a great photopgraher as an old friend!)
 <a data-flickr-embed="true"  href="https://www.flickr.com/gp/143954154@N05/60SFXD" title="Us on Franklin Street"><img src="https://c7.staticflickr.com/8/7546/29807640030_478e012cac_z.jpg" width="640" height="427" alt="Us on Franklin Street"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+<i class="fa fa-flickr" aria-hidden="true"></i><i class="fa fa-flickr" aria-hidden="true"></i><i class="fa fa-flickr" aria-hidden="true"></i>

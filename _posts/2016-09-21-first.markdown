@@ -3,7 +3,7 @@ layout: post
 title:  On the Web
 ---
 
-<center><img src="/css/13988130_1392580994092127_2821129243963142724_o.jpg"  alt="Wedding Dance"></center>
+<center><img src="/css/13988130_1392580994092127_2821129243963142724_o.jpg"  alt="Wedding Dance" border="2"></center>
 
 
 Well, the day has come.  It's time to publish my blog post on the world wide web.  
@@ -20,8 +20,16 @@ late afternoon!
 I hope to be much quicker and to understand the fundamentals of this class more
 thoroughly by the end of this semester.  _Here's_ to making my first web page!
 
+__*Helpful Links*__
+* <a href= "https://google.com">Google</a> 
+* <a href= "https://silshack.github.io/inls161fall2016/">Course Website</a> 
+* <a href= "http://stackoverflow.com/">The Stack</a> 
+
+
 <center><img src="/css/384-emoji_android_panda_face.png" alt="Panda Face" height="75" width="75"></center>
 <br>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/187063856%3Fsecret_token%3Ds-CshEh&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <br>
 P.S.  The backup vocals and guitar on the song "Always,Always" are performed by my younger brother Jonathan.
+<i class="fa fa-gitlab" aria-hidden="true"></i>
+<i class="fa fa-coffee" aria-hidden="true"></i>
