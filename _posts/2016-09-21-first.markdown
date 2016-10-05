@@ -21,6 +21,7 @@ I hope to be much quicker and to understand the fundamentals of this class more
 thoroughly by the end of this semester.  _Here's_ to making my first web page!
 
 __*Helpful Links*__
+
 * <a href= "https://google.com">Google</a> 
 * <a href= "https://silshack.github.io/inls161fall2016/">Course Website</a> 
 * <a href= "http://stackoverflow.com/">The Stack</a> 
