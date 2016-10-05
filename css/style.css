@@ -97,11 +97,12 @@ a {
  */
 blockquote {
   color: #008080;
+  font-family: 'Voltaire', sans-serif;
   border-left: 4px solid #4dffff;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
-  font-style: italic; }
+  font-style: none; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
