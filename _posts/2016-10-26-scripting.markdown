@@ -18,7 +18,11 @@ of several pandoc commands that caused each conversion to take place by simply r
 The paper I uploaded and converted was an analysis of the information in my world and how I organize it. I provided 
 detailed descriptions of where certain information is stored and how it is accessed and used regardless of whether it is digital 
 or physical.  I also took photographs that displayed certain aspects or features of
-my personal information system.
+my personal information system. 
+
+An interesting thing I discovered with the first paper that I tried 
+to upload (from a different class) was that any photos I had previously grouped with labels in Word were not recognized.  I even tried ungrouping and uploading them to my workspace,
+but the Markdown file still did not recognize them.  So instead, I used a recent paper I written that included unlabeled photos!
 
 Here are the links to each file and the script itself:
 
@@ -35,5 +39,8 @@ no way a piece of cake for me I found last Monday immensely encouraging.  I init
 Assignment 3 and then all of a sudden I just started to put it together. Also, today in class I began to 
 really understand **flags** and their importance.  There was an unnesscary table of contents and title included in
 the converted pdf file and I was able to identify the flags and remove them from the script.
+This was the final command that did not produce a **title** or a **table of contents**...
+
+ > pandoc -S -o $filebase.html $fileName && pandoc -S -o $filebase.pdf $filebase.html
 
 I look forward to what is around the corner next! <i class="fa fa-cubes" aria-hidden="true"></i>
