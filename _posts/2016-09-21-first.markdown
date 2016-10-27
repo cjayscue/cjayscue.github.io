@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  On the Web
+sticky: true
 ---
 
 <center><img src="/css/13988130_1392580994092127_2821129243963142724_o.jpg"  alt="Wedding Dance" border="2"></center>
