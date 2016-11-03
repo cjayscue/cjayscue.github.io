@@ -1,0 +1,33 @@
+---
+layout: post
+title:  Group Project
+
+---
+
+<center><img src="/css/shellscripting.jpg"  alt="Scripting Penguin" border="4"> </center>
+<br>
+<br>
+When I initially heard that this was going to be a ```group project```, I was less than thrilled.
+The older I get the more introverted I've become, so I tend to dislike that 
+type of assignment.
+
+However, once I settled into my group I actually started to enjoy myself.  Most of the 
+steps we worked together but a few of the simpler ones we did individually and then just
+informed our group-mates that they could pull the change.  (For example, I took care
+of creating the **Prep** folder and moving files into it.)
+
+We developed the questions and format of the script as a team while Reagan tracked down what we needed for
+a time stamp and Celine discovered how to insert a unique ID.  Even though sharing and merging got a bit messy at times, it was great to see how we 
+could work together both *on-screen* and *off-screen* in a collaborative way.  The first time we had a <a href= "https://github.com/celineyuwono/mcrgirls-assignment-4/commit/99ac67b515e3c18866ab3bb18df8c18609b08b3b">merge conflict</a>, Professor Hauser
+walked us through what we needed to do to get things back in order.  But the second time we had a <a href= "https://github.com/celineyuwono/mcrgirls-assignment-4/commit/c9456fd91468cfc79aba94347f82beb155a4aa98">one</a> we were able
+to solve it ourselves!
+
+I wanted to add a ***splash*** of color to our script so I made each question a different color.
+It was really cool that my group-mates could just pull that change right to their own workspace.
+
+Even though this assignment was quick it was still incredibly beneficial.  I realize I was given my group members
+according to a random assignment, but I definitely think I lucked out.
+I've peeked ahead and am glad to see our next assignment is also a group project!
+
+<a href= "https://github.com/celineyuwono/mcrgirls-assignment-4">Assignment 4 Repository</a>
+
