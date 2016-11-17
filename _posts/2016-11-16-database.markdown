@@ -9,6 +9,8 @@ of weeks, and I can't help but feel a little bit __proud__.  This assignment was
 a challenge for the three of us, but now it is done and working exactly as it
 should (with a little ```swankification``` thrown on top).
 
+<a href= "https://github.com/celineyuwono/mcrgirls-assignment-5">Assignment 5 Repository</a>
+
 In a nutshell, our script (with the help of the README) asks the user to input 
 their username and password followed by a series of questions.  Once all of the 
 questions are answered, they are *inserted* into a table that has been previously
