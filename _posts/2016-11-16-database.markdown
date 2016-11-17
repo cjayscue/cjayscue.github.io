@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Assignment 5 (aka The Struggle)
-
 ---
 
 I just reviewed the script that we labored over as a group for the past couple

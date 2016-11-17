@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Group Project
-
 ---
 
 <center><img src="/css/shellscripting.jpg"  alt="Scripting Penguin" border="4"> </center>
