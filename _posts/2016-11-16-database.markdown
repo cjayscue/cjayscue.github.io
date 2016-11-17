@@ -1,0 +1,45 @@
+---
+layout: post
+title:  Assignment 5 (aka The Struggle)
+
+---
+
+I just reviewed the script that we labored over as a group for the past couple
+of weeks, and I can't help but feel a little bit __proud__.  This assignment was 
+a challenge for the three of us, but now it is done and working exactly as it
+should (with a little ```swankification``` thrown on top).
+
+In a nutshell, our script (with the help of the README) asks the user to input 
+their username and password followed by a series of questions.  Once all of the 
+questions are answered, they are *inserted* into a table that has been previously
+created in SQL.  The script also dumps the input into an sql file so that the 
+responses can be imported by another user (and that import command is also included
+in the script).
+
+I'm not going to lie.  This assignment had me like...
+<br>
+<br>
+
+<center><img src="/css/stressed.jpg"  alt="Stressed" border="4"> </center>
+<br>
+<br>
+As a group, we were essentially stymied for almost the entire class on Monday,
+November 14th and for most of the class today.  We tried so many combinations in
+our script and nothing worked.  Our table disappeared on Monday, and even though
+it initially showed up today it disappeared all over again...__twice__...!
+
+Even though we were able to get it working, after guidance, we were all so 
+frazzled we weren't sure what was the problem the whole time (it may have been
+the lack of table but we don't know why the tables kept disappearing).  Even though
+I made of use of <a href= "https://stackoverflow.com">Stack Overflow</a>, because
+I don't have a thorough understanding of scripting and syntax, I was never entirely
+sure what I was reading or testing.  In many ways, the assignment kind of felt like a guessing 
+game.  Even though I understand basic Java programming and I've taken a database 
+class in Access, I could not figure out a way to connect the dots to the command line.
+
+On a positive note, I am thankful for my group and for the opportunity to work
+with them a second time.  It was great to have classmates to bounce ideas off of 
+and to share tips and concepts with.  Once we got over the hurdle of the intial 
+script, we were able to work together very quickly to pull the rest of the assignment
+together!<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+
