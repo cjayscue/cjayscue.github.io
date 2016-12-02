@@ -21,24 +21,24 @@ are able to order 3D objects to be printed free of charge, although any <br>
 items ordered for classes or research are a higher priority than any leisure <br>
 projects.</p>
 <br>
-The uPrint SE Plus <center><img src="/css/3d printer.jpg"  alt="3D Printer" border="1"> </center>is special because it uses a different 
-kind of plastic than the other printers.  ABS plastic is unique because excess 
-“support” that is printed with a given object can be removed by placing the object
-in a chemical solution.  (**“Support”** is a slightly different kind of material that 
-is used to fill in certain areas of the object).  Instead of having to manually 
-remove excess **“support”** it can just be dissolved!
+The uPrint SE Plus <img src="/css/3d printer.jpg"  alt="3D Printer" border="1"> <br> 
+is special because it uses a different kind of plastic than the other <br>
+printers.  ABS plastic is unique because excess “support” that is printed <br>
+with a given object can be removed by placing the object in a chemical <br>
+solution.  (**“Support”** is a slightly different kind of material that <br> 
+is used to fill in certain areas of the object).  Instead of having to <br>
+manually remove excess **“support”** it can just be dissolved!<br>
 <br>
 We also covered some basic information regarding 3D design.  
-As beginners, we were directed to <a href= "https://www.thingiverse.com/">Thingaverse</a>, 
-which, as one of my fellow workshop-mates stated, is the <a href= "https://www.pinterest.com/">Pinterest</a> of 
-3D printing.  Thingiverse is a collection of 3D objects that has been created 
-by designers of all kinds.  The _.stl_ files that contain the specifics of each 
-object are available for anyone that wants to duplicate or modify the designs 
-on this website.  If I wanted to have an object printed for myself, all I need 
-to do is find something that I would like to have made and submit the files and 
-a <a href= "https://docs.google.com/forms/d/e/1FAIpQLScfWHSCBVDBoW5cc4iUqbcAqyu-GCS1sGZzdG3J4QtRXMuu-g/viewform">
-3D Printing Request</a> to Makerspace.  
-
+As beginners, we were directed to <a href= "https://www.thingiverse.com/">Thingaverse</a>,which, as one of my fellow <br>
+workshop-mates stated, is the <a href= "https://www.pinterest.com/">Pinterest</a> of  3D printing.  <br>
+Thingiverse is a collection of 3D objects that has been created by <br>
+designers of all kinds.  The _.stl_ files that contain the specifics <br> 
+of each object are available for anyone that wants to duplicate or <br>
+modify the designs on this website.  If I wanted to have an object printed for <br>
+myself, all I need to do is find something that I would like to have made <br>
+and submit the files and a <a href= "https://docs.google.com/forms/d/e/1FAIpQLScfWHSCBVDBoW5cc4iUqbcAqyu-GCS1sGZzdG3J4QtRXMuu-g/viewform"> 3D Printing Request</a> to Makerspace.  
+<br>
 I’m thinking this may actually be a perfect present for my dad!<i class="fa fa-gift" aria-hidden="true"></i>
 <i class="fa fa-heart-o" aria-hidden="true"></i>
 
